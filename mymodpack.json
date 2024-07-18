@@ -1,9 +1,9 @@
 {
   "formatVersion": 1,
   "game": {
-    "version": "1.16.5",
+    "version": "1.21",
     "modLoader": {
-      "id": "forge-36.2.34",
+      "id": "forge-51.0.25",
       "primary": true
     }
   },
