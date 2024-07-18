@@ -34,6 +34,11 @@
             "id": "TerraBlender",
             "fileName": "TerraBlender-forge-1.21-4.0.0.1.jar",
             "downloadUrl": "https://example.com/mods/TerraBlender-forge-1.21-4.0.0.1.jar"
+        },
+        {
+            "id": "comforts",
+            "fileName": "comforts-forge-9.0.0+1.21.jar",
+            "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/comforts/download/5506648.jar"
         }
     ]
 }
